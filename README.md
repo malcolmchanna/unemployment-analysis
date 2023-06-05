@@ -27,7 +27,4 @@
 
   <p>Feel free to modify the code to suit your specific analysis requirements or use it as a reference for similar data analysis projects.</p>
 
-  <h2>License</h2>
-  <p>This code is provided under the <a href="LICENSE">MIT License</a>. Feel free to use and modify it for your own purposes.</p>
-</body>
-</html>
+
