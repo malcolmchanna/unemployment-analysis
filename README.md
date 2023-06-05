@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Unemployment Data Analysis</title>
-</head>
-<body>
+
   <h1>Unemployment Data Analysis</h1>
 
   <h2>Data</h2>
